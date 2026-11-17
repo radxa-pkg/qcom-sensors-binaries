@@ -1,3 +1,10 @@
+qcom-sensors-binaries (1.2.1-2) unstable; urgency=medium
+
+  [ Chongbiao Chen ]
+  * fix: fix pkg.conf
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Tue, 17 Nov 2026 10:51:24 +0000
+
 qcom-sensors-binaries (1.2.1-1) unstable; urgency=medium
 
   [ "Radxa Computer Co., Ltd" ]
